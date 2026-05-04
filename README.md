@@ -24,7 +24,10 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,c++,java,html,css,windows terminal,canva,mysql,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,mysql,linux,git,github,vscode" />
 </p>
 
+### 🛠️ Tools & Platforms:
+- Windows Terminal  
+- Canva 
 ---
